@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c61ff82cbf0142a401a48a8161e1595a",
+    "content-hash": "2e4ae6590ba4c86b701caf1b6dbd4669",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5129,6 +5129,47 @@
             "time": "2022-03-02T12:42:23+00:00"
         },
         {
+            "name": "thanhlk0803/mypackage",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thanhlk0803/MyPackage.git",
+                "reference": "69e1060fc794ad85e9f6e8fb7a5397d1cc03ec21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thanhlk0803/MyPackage/zipball/69e1060fc794ad85e9f6e8fb7a5397d1cc03ec21",
+                "reference": "69e1060fc794ad85e9f6e8fb7a5397d1cc03ec21",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thanhlk0803\\Mypackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "foostart",
+                    "email": "foostart.com@gmail.com"
+                }
+            ],
+            "description": "mypackage",
+            "keywords": [
+                "Mypackage"
+            ],
+            "support": {
+                "issues": "https://github.com/thanhlk0803/MyPackage/issues",
+                "source": "https://github.com/thanhlk0803/MyPackage/tree/main"
+            },
+            "time": "2022-03-26T02:10:08+00:00"
+        },
+        {
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "2.2.4",
             "source": {
@@ -7904,7 +7945,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "thanhlk0803/mypackage": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {

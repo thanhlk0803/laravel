@@ -52,7 +52,20 @@ a{
       <td><?php // echo $user["name"]?>thanh126@gmail.com </td>
       
     </tr>
-
+    <tr>
+     
+      <td><?php // echo $user["name"]?> <a href= "resource.php">03</a></td>
+      <td><?php // echo $user["name"]?>user1</td>
+      <td><?php // echo $user["name"]?>wedontlike1@gmail.com </td>
+      
+    </tr>
+    <tr>
+     
+      <td><?php // echo $user["name"]?> <a href= "resource.php">04</a></td>
+      <td><?php // echo $user["name"]?>thanh Trần</td>
+      <td><?php // echo $user["name"]?>wedontlike4@gmail.com</td>
+      
+    </tr>
    <?php 
 //}
 ?>
