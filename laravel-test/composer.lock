@@ -5130,16 +5130,16 @@
         },
         {
             "name": "thanhlk0803/mypackage",
-            "version": "10.6.1",
+            "version": "10.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thanhlk0803/MyPackage.git",
-                "reference": "40fb696208146e201c91846e6cad6f6bb4530806"
+                "reference": "f052ab88416f816c22afab4e71b23259b7e00c1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thanhlk0803/MyPackage/zipball/40fb696208146e201c91846e6cad6f6bb4530806",
-                "reference": "40fb696208146e201c91846e6cad6f6bb4530806",
+                "url": "https://api.github.com/repos/thanhlk0803/MyPackage/zipball/f052ab88416f816c22afab4e71b23259b7e00c1f",
+                "reference": "f052ab88416f816c22afab4e71b23259b7e00c1f",
                 "shasum": ""
             },
             "type": "library",
@@ -5164,9 +5164,9 @@
             ],
             "support": {
                 "issues": "https://github.com/thanhlk0803/MyPackage/issues",
-                "source": "https://github.com/thanhlk0803/MyPackage/tree/10.6.1"
+                "source": "https://github.com/thanhlk0803/MyPackage/tree/10.6.2"
             },
-            "time": "2022-04-22T13:14:38+00:00"
+            "time": "2022-04-23T02:25:38+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
