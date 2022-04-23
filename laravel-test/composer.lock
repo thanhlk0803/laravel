@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2e4ae6590ba4c86b701caf1b6dbd4669",
+    "content-hash": "1aaea3af48e2d78ad1c2333a5d03603c",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5130,19 +5130,18 @@
         },
         {
             "name": "thanhlk0803/mypackage",
-            "version": "dev-main",
+            "version": "10.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thanhlk0803/MyPackage.git",
-                "reference": "69e1060fc794ad85e9f6e8fb7a5397d1cc03ec21"
+                "reference": "40fb696208146e201c91846e6cad6f6bb4530806"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thanhlk0803/MyPackage/zipball/69e1060fc794ad85e9f6e8fb7a5397d1cc03ec21",
-                "reference": "69e1060fc794ad85e9f6e8fb7a5397d1cc03ec21",
+                "url": "https://api.github.com/repos/thanhlk0803/MyPackage/zipball/40fb696208146e201c91846e6cad6f6bb4530806",
+                "reference": "40fb696208146e201c91846e6cad6f6bb4530806",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -5165,9 +5164,9 @@
             ],
             "support": {
                 "issues": "https://github.com/thanhlk0803/MyPackage/issues",
-                "source": "https://github.com/thanhlk0803/MyPackage/tree/main"
+                "source": "https://github.com/thanhlk0803/MyPackage/tree/10.6.1"
             },
-            "time": "2022-03-26T02:10:08+00:00"
+            "time": "2022-04-22T13:14:38+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -7945,9 +7944,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "thanhlk0803/mypackage": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
